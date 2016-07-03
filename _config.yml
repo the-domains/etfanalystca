@@ -1,0 +1,14 @@
+layout_spectrum: 0.31831916840747
+typography_spectrum: 0.4227219058666378
+color:
+  brandStrength: 0.6251993530895561
+  lightness: 0.44279519002884626
+  saturation: 0.7622447479516268
+  rhythmicContrast: 0.26481710211373866
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: etfanalyst.ca
